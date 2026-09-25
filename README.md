@@ -21,7 +21,7 @@ Deploy as a static site. Build command: `npm run build`. Publish/output director
 - Vercel: import the repository and select the Vite preset.
 - Render: create a Static Site, connect the repository, and use the build command and publish directory above.
 
-Hash-based routes (`/#/about`, `/#/stack`, `/#/projects`, `/#/contact`) keep navigation and refresh working on static hosts without server rewrites. No backend, API keys, or paid infrastructure is required. Hosting plan availability and terms are controlled by the provider.
+All sections appear in one continuous scrollable page. The sticky navigation highlights the section in view. Existing hash links (`/#/about`, `/#/stack`, `/#/projects`, `/#/contact`) jump to sections and work on refresh without server rewrites. No backend, API keys, or paid infrastructure is required. Hosting plan availability and terms are controlled by the provider.
 
 ## Editing
 

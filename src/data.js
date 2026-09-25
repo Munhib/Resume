@@ -3,7 +3,7 @@ export const groups = {
   'Languages': ['Python', 'JavaScript', 'C++', 'C'],
   'AI & ML': ['PyTorch', 'Scikit-learn', 'YOLOv8', 'OpenCV', 'Flower', 'LLMs', 'AI Agents', 'MCP'],
   'Web & backend': ['React', 'Node.js', 'Express.js', 'FastAPI', 'REST APIs', 'Electron'],
-  'Cloud & tools': ['AWS EC2', 'IAM', 'AWS CLI', 'Linux', 'SSH', 'PM2', 'Git', 'Black', 'Ruff', 'Mypy', 'Pytest'],
+  'Cloud & tools': ['AWS EC2', 'IAM', 'AWS CLI', 'Linux', 'SSH', 'PM2', 'Git', 'Mypy', 'Pytest'],
   'Databases': ['MongoDB', 'MySQL', 'SQLite', 'DynamoDB'],
   'Data & analytics': ['Pandas', 'NumPy', 'Power BI', 'Tableau', 'Excel', 'PyMuPDF'],
 };
